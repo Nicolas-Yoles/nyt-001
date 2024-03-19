@@ -1,14 +1,24 @@
 body{
-background-color: black;
+//background-color: black;
 }
 
-h1{color: white;}
+h1{
+//color: white;
+}
 
 .cuadrado{
-background-color: white;
+border: solid black;
+background-color: red;
+height: 3rem;
+width: 3rem;
 }
 
 .circulo{
-background-color: green;
+border: solid black;
+background-color: red;
+height: 3rem;
+width: 3rem;
+border-radius: 2rem;
 }
+
 
